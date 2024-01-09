@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.31d8c554.css",
-    "main.js": "/react-gh-pages/static/js/main.ff66db60.js",
-    "static/js/787.e9eb9f7b.chunk.js": "/react-gh-pages/static/js/787.e9eb9f7b.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.31d8c554.css.map": "/react-gh-pages/static/css/main.31d8c554.css.map",
-    "main.ff66db60.js.map": "/react-gh-pages/static/js/main.ff66db60.js.map",
-    "787.e9eb9f7b.chunk.js.map": "/react-gh-pages/static/js/787.e9eb9f7b.chunk.js.map"
+    "main.css": "/huutis4/static/css/main.31d8c554.css",
+    "main.js": "/huutis4/static/js/main.5cc7ecf9.js",
+    "static/js/787.e9eb9f7b.chunk.js": "/huutis4/static/js/787.e9eb9f7b.chunk.js",
+    "index.html": "/huutis4/index.html",
+    "main.31d8c554.css.map": "/huutis4/static/css/main.31d8c554.css.map",
+    "main.5cc7ecf9.js.map": "/huutis4/static/js/main.5cc7ecf9.js.map",
+    "787.e9eb9f7b.chunk.js.map": "/huutis4/static/js/787.e9eb9f7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d8c554.css",
-    "static/js/main.ff66db60.js"
+    "static/js/main.5cc7ecf9.js"
   ]
 }
